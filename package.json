@@ -1,0 +1,19 @@
+{
+  "name": "cinematic-dark-saas-landing-page",
+  "version": "1.0.0",
+  "description": "Pixel-perfect replica of the cinematic dark SaaS landing page template",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "landing-page",
+    "saas",
+    "dark-mode",
+    "nextjs",
+    "tailwind",
+    "framer-motion"
+  ],
+  "author": "",
+  "license": "MIT"
+}
